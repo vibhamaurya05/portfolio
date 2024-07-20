@@ -13,9 +13,9 @@ function Hero() {
           <h1 className="text-4xl md:text-6xl text-white">
             <span className="text-[red]">Hi,</span> I'm Vibha
           </h1>
-          <p className="text-2xl md:text-4xl text-white mt-4 md:mt-0">A Fullstack Developer</p>
+          <p className="text-2xl md:text-4xl text-white mt-4 md:mt-0">A Web Developer</p>
           <p className="text-white text-justify mt-4 md:mt-0">
-            I enjoy solving complex problems. Frequently praised as detail-oriented by my peers, I can be relied upon to help your company achieve its goals by providing sustainable and scalable solutions.
+          Passionate about web development, I build modern, user-centric websites using Nextjs, TypeScript, React, and TailwindCSS. My approach combines technical skill with creative problem-solving to deliver exceptional results.
           </p>
 
           <div className="flex justify-center md:justify-start gap-3 mt-4 md:mt-0">
