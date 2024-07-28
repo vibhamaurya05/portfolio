@@ -6,10 +6,6 @@ import { CardBody, CardContainer, CardItem } from "../src/components/ui/3d-card"
 import Link from "next/link";
 import { Button } from "../src/components/ui/button";
 
-
-
-
-
 export function ThreeDCardDemo() {
   return (
     <div className="bg-[#0a0d30] flex flex-col items-center">

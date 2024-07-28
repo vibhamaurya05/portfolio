@@ -5,7 +5,7 @@ import TechStack from "@/components/TechStack";
 import Services from "@/components/Services";
 import { ThreeDCardDemo } from "@/components/Projects";
 import Contact from "@/components/Contact";
-import Footer from "@/components/Footer";
+import Footer from "@/components/footer";
 
 
 
